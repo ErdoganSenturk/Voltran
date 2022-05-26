@@ -109,6 +109,10 @@
     width: 90%;
   }
 
+ .images li img:hover{
+    transform: scale(1.1);
+  }
+  
   section.join{
     text-align: center;
   }
